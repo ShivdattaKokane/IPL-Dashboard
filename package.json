@@ -1,0 +1,12 @@
+{
+  "name": "ipl-dashboard-master",
+  "version": "1.0.0",
+  "description": "Browse your favorite IPL teams and access their past games details, wins and losses ratios - accessible by team and tournament year.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

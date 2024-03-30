@@ -22,7 +22,7 @@ export const HomePage = () => {
   return (
     <div className="HomePage">
       <div className="header-section">
-        <h1 className="app-name">Shivdatta's IPL Dashboard</h1>
+        <h1 className="app-name">Shivdatta Kokane IPL Dashboard</h1>
       </div>
       <div className="team-grid">
         {teams.map((team) => (
